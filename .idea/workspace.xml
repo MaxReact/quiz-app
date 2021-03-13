@@ -1,13 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="42c1fc6c-795d-462d-be94-ba72aa31bf03" name="Default Changelist" comment="" />
+    <list default="true" id="42c1fc6c-795d-462d-be94-ba72aa31bf03" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/quiz.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ActiveQuiz/AnswersList/AnswersItem/AnswersItem.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ActiveQuiz/AnswersList/AnswersItem/AnswersItem.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/FinishedQuiz/FinishedQuiz.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/FinishedQuiz/FinishedQuiz.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Navigation/Drawer/Drawer.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Navigation/Drawer/Drawer.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Navigation/MenuToggle/MenuToggle.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Navigation/MenuToggle/MenuToggle.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/UI/Backdrop/Backdrop.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/UI/Backdrop/Backdrop.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/UI/Button/Button.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/UI/Button/Button.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/UI/Input/Input.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/UI/Input/Input.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/containers/Auth/Auth.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/containers/Auth/Auth.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/containers/QuizCreator/QuizCreator.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/containers/QuizCreator/QuizCreator.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/containers/QuizList/QuizList.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/containers/QuizList/QuizList.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1omrOyqJLzHDHHHGS6kX3zTm5n8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -15,7 +59,21 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components/UI/Input" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Akmal\Desktop\react-quiz\src\components\UI\Input" />
+      <recent name="C:\Users\Akmal\Desktop\react-quiz\src\containers\Auth" />
+      <recent name="C:\Users\Akmal\Desktop\react-quiz\src\containers\QuizCreator" />
+      <recent name="C:\Users\Akmal\Desktop\react-quiz\src\containers\QuizList" />
+      <recent name="C:\Users\Akmal\Desktop\react-quiz\src\components\Navigation\Drawer" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -28,10 +86,38 @@
       <option name="presentableId" value="Default" />
       <updated>1613902581143</updated>
       <workItem from="1613902589794" duration="158000" />
+      <workItem from="1613986284285" duration="734000" />
+      <workItem from="1613987446129" duration="8854000" />
+      <workItem from="1614063856364" duration="1391000" />
+      <workItem from="1614070636271" duration="1612000" />
+      <workItem from="1614161250242" duration="9885000" />
+      <workItem from="1614183896889" duration="8345000" />
+      <workItem from="1614232036923" duration="1526000" />
+      <workItem from="1614233799361" duration="13152000" />
+      <workItem from="1614311674826" duration="2582000" />
+      <workItem from="1614339520692" duration="2788000" />
+      <workItem from="1614364067600" duration="126000" />
+      <workItem from="1614364241997" duration="1069000" />
+      <workItem from="1614400314281" duration="24000" />
+      <workItem from="1614400400817" duration="60000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="434" y="155" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1614200479455">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="434" y="155" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1614200479455" />
+    <state x="93" y="15" width="1174" height="713" key="SettingsEditor" timestamp="1614400460783">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="93" y="15" width="1174" height="713" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1614400460783" />
+    <state x="369" y="80" width="627" height="568" key="find.popup" timestamp="1614260793977">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="369" y="80" width="627" height="568" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1614260793977" />
   </component>
 </project>
